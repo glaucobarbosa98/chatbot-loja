@@ -1,0 +1,83 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "tipo": "iPhone",
+      "modelo": "iPhone 15 Pro Max",
+      "cor": "Titanium Natural",
+      "armazenamento": "256GB",
+      "condicao": "Lacrado",
+      "quantidade": 3,
+      "preco": 8999.00,
+      "especificacoes": "Chip A17 Pro, Tela 6.7 Super Retina XDR, Câmera 48MP, 5G"
+    },
+    {
+      "id": 2,
+      "tipo": "iPhone",
+      "modelo": "iPhone 14 Pro",
+      "cor": "Deep Purple",
+      "armazenamento": "128GB",
+      "condicao": "Lacrado",
+      "quantidade": 5,
+      "preco": 6499.00,
+      "especificacoes": "Chip A16 Bionic, Tela 6.1 Super Retina XDR, Dynamic Island, 5G"
+    },
+    {
+      "id": 3,
+      "tipo": "iPhone",
+      "modelo": "iPhone 13",
+      "cor": "Meia-noite",
+      "armazenamento": "128GB",
+      "condicao": "Lacrado",
+      "quantidade": 0,
+      "preco": 4299.00,
+      "especificacoes": "Chip A15 Bionic, Tela 6.1 Super Retina XDR, Câmera Dupla 12MP, 5G"
+    },
+    {
+      "id": 4,
+      "tipo": "MacBook",
+      "modelo": "MacBook Pro 14\"",
+      "chip": "M3 Pro",
+      "ram": "18GB",
+      "ssd": "512GB",
+      "quantidade": 2,
+      "preco": 15999.00,
+      "especificacoes": "Tela Liquid Retina XDR 14.2, 3 Portas Thunderbolt 4, Touch ID"
+    },
+    {
+      "id": 5,
+      "tipo": "MacBook",
+      "modelo": "MacBook Air 13\"",
+      "chip": "M2",
+      "ram": "8GB",
+      "ssd": "256GB",
+      "quantidade": 4,
+      "preco": 8999.00,
+      "especificacoes": "Tela Liquid Retina 13.6, MagSafe 3, 2 Portas Thunderbolt/USB 4"
+    },
+    {
+      "id": 6,
+      "tipo": "Apple Watch",
+      "modelo": "Apple Watch Series 9",
+      "tamanho": "45mm",
+      "versao": "GPS",
+      "material": "Alumínio",
+      "cor": "Meia-noite",
+      "quantidade": 6,
+      "preco": 3499.00,
+      "especificacoes": "Chip S9 SiP, Tela Always-On Retina, Altímetro, GPS"
+    },
+    {
+      "id": 7,
+      "tipo": "Apple Watch",
+      "modelo": "Apple Watch Ultra 2",
+      "tamanho": "49mm",
+      "versao": "GPS + Cellular",
+      "material": "Titânio",
+      "cor": "Natural",
+      "quantidade": 1,
+      "preco": 7999.00,
+      "especificacoes": "Chip S9 SiP, Tela Always-On Retina 2000 nits, Água Profunda, GPS"
+    }
+  ]
+}
