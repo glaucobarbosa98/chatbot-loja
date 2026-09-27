@@ -6,7 +6,7 @@ Chatbot full-stack para loja de tecnologia especializada em produtos Apple, util
 
 - **Backend**: Python + Flask
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
-- **IA**: Google Gemini API (gemini-1.5-flash)
+- **IA**: Google Gemini API (gemini-3.8-flash)
 
 ## Estrutura do Projeto
 
